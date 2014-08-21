@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Link to test 4\
+https://usabilityhub.com/do/ec90ee6efabd/b837\
+\
+Link to test results 4\
+https://usabilityhub.com/tests/ec90ee6efabd/results/426338f627fb\
+\
+URL to view 
+\fs28 \cf2 landing page on GITHub\
+{\field{\*\fldinst{HYPERLINK "https://github.com/doffenbacher/WiU"}}{\fldrslt https://github.com/doffenbacher/WiU}}\
+\
+
+\fs24 \cf0 URL to view 
+\fs28 \cf2 landing page\
+{\field{\*\fldinst{HYPERLINK "http://doffenbacher.github.io/WiU/WiU%20Landing%20Page/index.html#"}}{\fldrslt http://doffenbacher.github.io/WiU/WiU%20Landing%20Page/index.html#}}}
