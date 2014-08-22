@@ -12,7 +12,7 @@ https://usabilityhub.com/tests/1a7dc007c5be/results/3987e9fcb0fe\
 \
 URL to view 
 \fs28 \cf2 landing page on GITHub\
-{\field{\*\fldinst{HYPERLINK "https://github.com/doffenbacher/WiU"}}{\fldrslt https://github.com/doffenbacher/WiU}}\
+{\field{\*\fldinst{HYPERLINK "https://github.com/doffenbacher/WiU"}}{\fldrslt https://github.com/doffenbacher/WiU/tree/gh-pages/WiU%20Landing%20Page}}\
 \
 
 \fs24 \cf0 URL to view 
